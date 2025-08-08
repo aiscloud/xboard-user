@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://login.obcdn.top/'
+window.routerBase = 'https://p/'
 window.settings = {
   // 站点名称
   title: 'Xboard',
